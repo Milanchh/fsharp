@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TxmuALo19dg=",
+  "success": true,
+  "projectFilePath": "C:\\f sharp\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\milan\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
